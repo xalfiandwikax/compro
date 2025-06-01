@@ -4,7 +4,7 @@ export default function HeroSection({ title, subtitle, ctaText }) {
       {/* Background Image dengan Overlay Lebih Gelap */}
       <div className="absolute inset-0">
         <div 
-          className="absolute inset-0 bg-[url('./src/assets/hover.jpg')] bg-cover bg-center z-0"
+          className="absolute inset-0 bg-[url('/image/hover.jpg')] bg-cover bg-center z-0"
           style={{ filter: 'brightness(0.7)' }} // Menggelapkan gambar langsung
         />
         <div className="absolute inset-0 bg-black/50 z-1" /> {/* Overlay lebih gelap */}

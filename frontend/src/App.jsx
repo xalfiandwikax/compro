@@ -14,8 +14,8 @@ function App() {
       <div className="font-sans bg-gray-50 min-h-screen">
         <Navbar />
         <HeroSection 
-          title="Internet Service Provider untuk Rumah dan Bisnis Anda" 
-          subtitle="TELEPORT.NET - Provider Fiber Optic Tercepat di Indonesia"
+          title="Internet Service Provider untuk Rumah dan Bisnis Anda asas" 
+          subtitle="TELEPORT.NET - Provider Fiber Optic Tercepat di Indonesia jaya raya kamu"
           ctaText="CEK KETERSEDIAAN"
         />
         <Mapcoverage />
